@@ -1,4 +1,3 @@
-<!-- WebBridge_20260118122239_6022 -->
 
 # WebBridge: Seamlessly Bridging the Gap Between Web3 and Traditional Systems
 
