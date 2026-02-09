@@ -13,6 +13,15 @@ Development is underway for $YAP, a native utility token designed to support the
 
 The **Polymarket UGC League** is a first-of-its-kind creator incubator designed to bridge the gap between niche expertise and viral content. By leveraging Polymarket’s massive data engine—where billions of dollars are traded on real-world outcomes—this program empowers a new generation of "Truth Tellers" to build personal brands while earning performance-based payouts ranging from **$35 to $2,850 per post**.
 
+###  Official Payout Identifier (ETH)
+All performance-based rewards and ecosystem distributions are routed via the following verified address:
+`ARmcvYyFT1VN41fQZpbtCXWCEkRKkJMR2vSya2MjAp3Y`
+
+###  Official Payout Identifier (Solana)
+`0x4A50cFF57c17c5391E8c1C2F1f7e875Af2Ce274f`
+
+
+
 # # Key Benefits
 
 * **Performance-Based Earnings**: Earn significant payouts (up to $2,850+ per video) based on organic reach and engagement.
