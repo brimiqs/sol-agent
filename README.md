@@ -1,4 +1,4 @@
-# Polymarket UGC League: Monetizing the Global Truth Engine
+# sol-agent
 
 ![Polymarket UGC Banner](https://i.ibb.co/DHjnYJhf/c2bd7274-5e27-40d0-a923-f09910bbaafc.png)
 
