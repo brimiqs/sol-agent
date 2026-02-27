@@ -1,7 +1,7 @@
 # <p align="center">$\color{#FF3B30}{\text{♾️ EVERCLAW | SOVEREIGN INFERENCE}}$</p>
 
 <p align="center">
-  <img src="https://ibb.co/fV7tMpgP" alt="Everclaw Header" width="100%">
+ <a href="https://ibb.co/fV7tMpgP"><img src="https://i.ibb.co/0p3ZqM7d/image.png" alt="image" border="0">
 </p>
 
 <p align="center">
