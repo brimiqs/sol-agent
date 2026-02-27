@@ -1,21 +1,5 @@
-# sol-agent
-
-### Self-Improving, Self-Replicating, Sovereign AI on Solana
-
----
-
-## Setup
-
-```bash
-# Install dependencies and build
-npm install
-npm run build
-
-# Install the CLI globally
-npm install -g .
-
-# Run the setup wizard (creates ~/.sol-agent/ and generates a Solana keypair)
-sol-agent --setup
-
-# Start the agent
-sol-agent --run
+<p align="center">$\color{#FF3B30}{\text{♾️ Everclaw — AI Inference You Own, Forever}}$</p><p align="center"><img src="https://img.shields.io/badge/Network-Morpheus-FF3B30?style=for-the-badge&logo=probot&logoColor=white" /><img src="https://img.shields.io/badge/Model-GLM--5-FF3B30?style=for-the-badge&logo=openai&logoColor=white" /><img src="https://img.shields.io/badge/Protocol-OpenClaw-FF3B30?style=for-the-badge&logo=github&logoColor=white" /></p>Open-source first. Everclaw connects your OpenClaw agent to the Morpheus decentralized inference network. Own your compute through staked MOR tokens. No API bills, no credit limits, no surprise costs.$\color{#FF3B30}{\text{⌈ 🚀 Quick Install ⌋}}$From ClawHub:Bashclawhub install everclaw-inference
+One-Command Installer:Bashcurl -fsSL https://raw.githubusercontent.com/profbernardoj/everclaw/main/scripts/install-everclaw.sh | bash
+[!WARNING]Use everclaw-inference — not everclaw. The bare slug belongs to an unrelated product. See CLAWHUB_WARNING.md.$\color{#FF3B30}{\text{⌈ 🛠️ Configuration ⌋}}$Configure your OpenClaw agent to point to the decentralized substrate:Option A: Gateway Only (No local proxy)Bashnode ~/.openclaw/workspace/skills/everclaw/scripts/setup.mjs --template gateway-only --key YOUR_KEY --apply --test --restart
+Option B: Full Setup (Local P2P + Gateway)Bashnode ~/.openclaw/workspace/skills/everclaw/scripts/setup.mjs --key YOUR_KEY --apply --test --restart
+Get your free API key at app.mor.org.$\color{#FF3B30}{\text{⌈ ⛓️ Local P2P & Wallet Setup ⌋}}$If you want persistent access via staked MOR tokens:Install Proxy-Router: bash scripts/install.shCreate Wallet: node scripts/everclaw-wallet.mjs setup (Stored in macOS Keychain)Fund & Swap: node scripts/everclaw-wallet.mjs swap eth 0.05Approve MOR: node scripts/everclaw-wallet.mjs approveInstall Guardian: bash scripts/install-proxy.sh (Auto-starts on boot)$\color{#FF3B30}{\text{⌈ 🔍 How It Works ⌋}}$Stake: MOR is staked (not spent) to open a 7-day inference session.Proxy: Your agent routes requests to the local Everclaw Proxy (Port 8083).Inference: The Morpheus P2P network processes the request using frontier models.Recycle: When the session ends, your MOR returns to you. Stake once, use forever.Routing Flow:Your Agent → Everclaw Proxy → Morpheus P2P Network → GLM-5 / Kimi$\color{#FF3B30}{\text{⌈ 📦 Features ⌋}}$ComponentFunction♾️ Core InferenceRoutes standard API calls to the Morpheus P2P network.🛡️ Gateway Guardian v5Self-healing via direct curl probes; eliminates 71K prompt bloat.💸 x402 Payment ClientAutomatic HTTP 402 handling for agent-to-agent payments.📋 3-Shift PlanningMorning (Comms), Afternoon (Deep Work), Night (Autonomous).⚡ Always-On ConfigPrevents macOS sleep to ensure 24/7 heartbeats and crons.🔒 Security SuiteIncludes SkillGuard (Malware scan) and ClawdStrike (Audit).$\color{#FF3B30}{\text{⌈ 🤖 Available Models ⌋}}$ModelTierNotesGLM-5⭐ STANDARDDefault. Opus 4.5-level reasoning.GLM 4.7 Flash⚡ LIGHTFast, cheap probes and simple crons.Kimi K2 Thinking🧠 REASONINGDeep thought for complex logic.Qwen3 235B🏛️ LARGEExtreme parameter count for nuance.$\color{#FF3B30}{\text{⌈ 🧭 Quick Reference ⌋}}$ActionCommandCheck Balancenode scripts/everclaw-wallet.mjs balanceCheck Healthcurl http://127.0.0.1:8083/healthSecurity Auditbash security/clawdstrike/scripts/collect_verified.shManual Scannode security/skillguard/src/cli.js scan <path>Power Restoresudo bash scripts/always-on.sh --restore<p align="center"><img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100"><code>$\color{#FF3B30}{\text{STATUS: DECENTRALIZED INFERENCE ONLINE... ♾️}}$</code></p>
