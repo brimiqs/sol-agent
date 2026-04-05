@@ -4,7 +4,7 @@ const { ethers } = require("hardhat");
 
 describe("Web3bridge", function () {
     let contract;
-    let owner;
+    let owner; 
     let user1;
     let user2;
     
