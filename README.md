@@ -75,7 +75,7 @@ Caveman Claude is a good fit for:
 It is less suited for customer-facing chatbots or environments where "polite" human-AI interaction is a core requirement.
 
 ---
-
+ 
 ## Quick Start
 
 ### 1. Initialize the Primitive Logic

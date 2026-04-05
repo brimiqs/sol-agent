@@ -13,3 +13,4 @@ ETHERSCAN_API_KEY=your_etherscan_api_key
 
 # Gas reporting
 REPORT_GAS=true
+ 
