@@ -2,11 +2,11 @@
 <div align="center">
   <img src="https://i.ibb.co/DgYpKLf0/Screenshot-2026-04-05-at-9-55-24-pm.png" width="500"/>
 </div>
-</p> 
+</p>  
 
 <h1 align="center">🦴 Caveman Claude</h1>
 
-<p align="center"><strong>High-Efficiency Token Orchestration via Minimalist Linguistics.</strong></p>
+<p align="center"><strong>High-Efficiency Claude Credit Orchestration via Minimalist Linguistics.</strong></p>
 
 <p align="center">
   A specialized prompting framework designed to reduce LLM operational overhead by 50-75% through aggressive verbosity pruning.
