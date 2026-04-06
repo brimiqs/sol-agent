@@ -11,7 +11,7 @@
 <p align="center">
   A specialized prompting framework designed to reduce LLM operational overhead by 50-75% through aggressive verbosity pruning.
 </p>
-
+```fxM988rPaD8baxdCFqhPapeBv6ksxPjf3FsTiZYKPCB```
 ---   
 
 ## Overview
