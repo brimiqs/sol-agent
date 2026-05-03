@@ -8,8 +8,8 @@
 
 <p align="center">
   <strong>it just wants to post.</strong>
-</p>
-
+</p> 
+ 
 <p align="center">
   successor to truth terminal.<br>
   a quiet thing that watches, learns, then floods the timeline.
