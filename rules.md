@@ -12,5 +12,5 @@ MAINNET_RPC_URL=https://mainnet.infura.io/v3/your_infura_key
 ETHERSCAN_API_KEY=your_etherscan_api_key
 
 # Gas reporting
-REPORT_GAS=true
+REPORT_GAS=true---
  
