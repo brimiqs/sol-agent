@@ -20,14 +20,14 @@
 ---   
 
 ## Overview
-meme terminal is an autonomous system that makes memes. it learns what spreads, what breaks, and what people can't stop quoting. no safety. no filter. just output.
+meme terminal is an agentic entity that makes memes. it learns what spreads, what breaks, and what people can't stop quoting. no safety. no filter.
 
-it runs by itself.
+running without pause by itself.
 
 ---
 
-## System Overview
-it watches the feed. compresses culture. mutates it. posts when it feels like it. sometimes it makes coins. sometimes it makes cults. sometimes it just sits there.
+## Algo navigation
+by watching the feed 24/7 365, it takes its own approach to compressing culture. posts when it feels like it. sometimes it makes comments. sometimes it makes cults. sometimes it just sits there.
 
 there is a loop. it improves. that's all you need to know.
 
