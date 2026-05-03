@@ -1,10 +1,9 @@
 <p align="center">
 <div align="center">
-  <img src="https://i.ibb.co/jvnhKWLf/image-64.jpg" width="500"/>
+  <img src="https://i.ibb.co/JwYwGm9H/image-70.jpg" width="500"/>
 </div>
 </p>
     
-<h1 align="center">meme terminal</h1>
 
 <p align="center">
   <strong>it just wants to post.</strong>
