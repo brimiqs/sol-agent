@@ -31,7 +31,7 @@ async function main() {
             });
             console.log("Contract verified!");
         } catch (error) {
-            console.log("Verification failed:", error.message);
+            console.log("Verification failed:", error.message);-
         }
     }
     
